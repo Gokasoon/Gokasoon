@@ -2,7 +2,7 @@
 My name is Gokasoon, I'm an 18-year-old computer science student from France.
 On my GitHub profile, you'll find a collection of projects that I've worked on, both personal and academic.
 
-I will post somes  project, personnal or made in class.   
+I'll be sharing some of my personal and class projects
 
 <!--
 **Gokasoon/Gokasoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
