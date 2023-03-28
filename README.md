@@ -1,6 +1,5 @@
 ###  👋 Hi there !
 My name is Gokasoon, I'm an 18-year-old computer science student from France.
-On my GitHub profile, you'll find a collection of projects that I've worked on, both personal and academic.
 
 I'll be sharing some of my personal and class projects
 
