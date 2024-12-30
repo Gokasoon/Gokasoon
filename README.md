@@ -1,5 +1,5 @@
 ###  👋 Hi there !
-My name is Soan, I'm an 19-year-old computer science student from France.
+My name is Soan, I'm an 20-year-old computer science student from France.
 
 I'll be sharing some of my personal and class projects
 
