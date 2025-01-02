@@ -3,7 +3,7 @@ My name is Soan, I'm an 20-year-old computer science student from France.
 
 I'll be sharing some of my personal and class projects
 
-Check my website : (https://gokasoon.github.io/)
+Check my website : https://gokasoon.github.io/
 
 ![Snake animation](https://github.com/Gokasoon/Gokasoon/blob/output/github-contribution-grid-snake-dark.svg)
 
